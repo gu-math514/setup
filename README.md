@@ -4,7 +4,8 @@ Windows setup:
 1. Install Anaconda
 2. Download math514_env.yml from github.com/gu-math514/setup
 3. Open anaconda terminal and cd to directory containing yml file
-from terminal run:
+
+From terminal run:
 
 conda env create -f math514_env.yml
 

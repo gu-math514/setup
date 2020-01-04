@@ -18,6 +18,7 @@ The spyder IDE should open and you should have access to the packages in the mat
 OS-X setup:
 
 almost same as windows -- use math514_env_osx.yml. Run commands from osx terminal.
+
 conda env create -f math514_env_osx.yma
 conda activate math514_env
 spyder

@@ -2,14 +2,14 @@
 
 **Windows setup:**
 1. Install Anaconda
-2. Download math514_env.yml from github.com/gu-math514/setup
+2. Download math514_env6_noversion.yml from github.com/gu-math514/setup
 3. Open anaconda terminal and cd to directory containing yml file
 
 From anaconda terminal run:
 
-conda env create -f math514_env.yml
+conda env create -f math514_env6_noversion.yml
 
-activate math514_env
+activate math514_env6
 
 spyder
 

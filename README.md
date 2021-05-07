@@ -34,5 +34,17 @@ spyder
 
 Now when notebook opens in the browser you should see 'env6' in the 'new' dropdown
 
+**Jupyter Notebook Extensions**
+
+[extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+
+1. From anaconda prompt, activate latest math514 env
+2. conda install -c conda-forge jupyter_contrib_nbextensions
+3. jupyter contrib nbextension install --user
+
+Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. Activate the 'Hide input' extension
+This extension allows you to hide/display the contents of a cell using the up-arrow icon.
+Tutorial notebooks have the 'solution' cells hidden initially.
+
 
 

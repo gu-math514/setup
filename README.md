@@ -42,8 +42,12 @@ Now when notebook opens in the browser you should see 'env6' in the 'new' dropdo
 2. conda install -c conda-forge jupyter_contrib_nbextensions
 3. jupyter contrib nbextension install --user
 
-Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. Activate the 'Hide input' extension
-This extension allows you to hide/display the contents of a cell using the up-arrow icon.
+Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. 
+Activate the following extensions (and any others you want to use):
+- Hide input
+- Table of Contents (2)
+- Scratchpad
+The 'Hide input' extension allows you to hide/display the contents of a cell using the up-arrow icon.
 Tutorial notebooks have the 'solution' cells hidden initially.
 
 

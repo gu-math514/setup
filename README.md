@@ -25,7 +25,7 @@ conda activate math514_env
 
 spyder
 
-**Jupyter Notebook setup Windows**
+# **Jupyter Notebook setup Windows**
 
 1. Open anaconda prompt and activate latest math514 environment
 2. If jupyter is not in current env then install: conda install jupyter

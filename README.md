@@ -34,7 +34,7 @@ spyder
 
 Now when notebook opens in the browser you should see 'env6' in the 'new' dropdown
 
-**Jupyter Notebook Extensions**
+# **Jupyter Notebook Extensions**
 
 [extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 

@@ -44,10 +44,11 @@ Now when notebook opens in the browser you should see 'env6' in the 'new' dropdo
 
 Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. 
 Activate the following extensions (and any others you want to use):
-- Hide input
+
 - Table of Contents (2)
 - Scratchpad
-The 'Hide input' extension allows you to hide/display the contents of a cell using the up-arrow icon.
+- Exercise
+
 Tutorial notebooks have the 'solution' cells hidden initially.
 
 

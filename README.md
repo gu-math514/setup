@@ -17,12 +17,13 @@ The spyder IDE should open and you should have access to the packages in the mat
 
 Note: 
 Check you package versions using 'conda list'. If your pytorch version is before 1.8.1 try running:
+
 conda upgrade -c pytorch pytorch
 
 After the upgrade I have
-pytorch-1.8.1
-torchtext-0.9.1
-torchvision-0.9.1
+- pytorch-1.8.1
+- torchtext-0.9.1
+- torchvision-0.9.1
 
 
 # **OS-X python setup:**

@@ -16,7 +16,7 @@ spyder
 The spyder IDE should open and you should have access to the packages in the math514_env environment
 
 Note: 
-Check you package versions using 'conda list'. If your pytorch version is before 1.8.1 try running:
+Check your package versions using 'conda list'. If your pytorch version is before 1.8.1 try running:
 
 conda upgrade -c pytorch pytorch
 

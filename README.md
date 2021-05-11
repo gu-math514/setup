@@ -54,7 +54,7 @@ Now when notebook opens in the browser you should see 'env6' in the 'new' dropdo
 3. jupyter contrib nbextension install --user
 
 Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. 
-Activate the following extensions (and any others you want to use):
+Go to the 'Nbextensions' tab and activate the following extensions (and any others you want to use):
 
 - Table of Contents (2)
 - Scratchpad

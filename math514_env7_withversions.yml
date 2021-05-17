@@ -294,6 +294,7 @@ dependencies:
   - toml=0.10.2=pyhd8ed1ab_0
   - tomlkit=0.7.0=py37h03978a9_3
   - toolz=0.11.1=py_0
+  - torchaudio=0.8.1=py37
   - torchtext=0.9.1=py37
   - torchvision=0.9.1=py37_cpu
   - tornado=6.1=py37hcc03f2d_1

@@ -28,11 +28,12 @@ After the upgrade I have
 
 # **OS-X python setup:**
 
-almost same as windows -- use math514_env6_osx_noversion.yml. Run commands from osx terminal.
+almost same as windows -- use math514_env7_osx_withchannel.yml. Run commands from osx terminal.
+This took a very long time on my vintage OSX mac-mini
 
-conda env create -f math514_env6_osx_noversion.yma
+conda env create -f math514_env7_osx_withchannel.yma
 
-conda activate math514_env6
+conda activate math514_env7
 
 spyder
 

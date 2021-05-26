@@ -37,6 +37,8 @@ conda activate math514_env7
 
 spyder
 
+The OS-X versions of pytorch, torchtext, ... might be slightly different than on windows.
+
 # **Jupyter Notebook setup Windows**
 
 1. Open anaconda prompt and activate latest math514 environment

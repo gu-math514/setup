@@ -43,7 +43,7 @@ The OS-X versions of pytorch, torchtext, ... might be slightly different than on
 
 1. Open anaconda prompt and activate latest math514 environment
 2. If jupyter is not in current env then install: conda install jupyter
-3. python -m ipykernel install --user --name math514_env6 --display-name "env6"
+3. python -m ipykernel install --user --name math514_env7 --display-name "env7"
 4. jupyter notebook
 
 Now when notebook opens in the browser you should see 'env6' in the 'new' dropdown

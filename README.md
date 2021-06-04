@@ -46,7 +46,7 @@ The OS-X versions of pytorch, torchtext, ... might be slightly different than on
 3. python -m ipykernel install --user --name math514_env7 --display-name "env7"
 4. jupyter notebook
 
-Now when notebook opens in the browser you should see 'env6' in the 'new' dropdown
+Now when notebook opens in the browser you should see 'env7' in the 'new' dropdown
 
 # **Jupyter Notebook Extensions**
 

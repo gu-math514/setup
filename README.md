@@ -39,7 +39,7 @@ spyder
 
 The OS-X versions of pytorch, torchtext, ... might be slightly different than on windows.
 
-# **Jupyter Notebook setup Windows**
+# **Jupyter Notebook setup**
 
 1. Windows: Open anaconda prompt and activate latest math514 environment
 

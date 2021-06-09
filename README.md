@@ -43,7 +43,7 @@ The OS-X versions of pytorch, torchtext, ... might be slightly different than on
 
 1. Windows: Open anaconda prompt and activate latest math514 environment
 
-   OS-X: Open OS-X terminal and activate latest math514 environment
+   OS-X: Open OS-X terminal and activate latest math514 environment. OS-X does not have an anaconda terminal so all commands are entered in an os-x terminal.
 3. If jupyter is not in current env then install: conda install jupyter
 4. python -m ipykernel install --user --name math514_env7 --display-name "env7"
 5. jupyter notebook

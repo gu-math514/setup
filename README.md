@@ -55,6 +55,7 @@ Now when notebook opens in the browser you should see 'env7' in the 'new' dropdo
 [extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
 1. Windows: From anaconda prompt, activate latest math514 env
+
    OS-X: Open OS-X terminal and activate latest math514 environment
 3. conda install -c conda-forge jupyter_contrib_nbextensions
 4. jupyter contrib nbextension install --user

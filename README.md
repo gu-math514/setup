@@ -41,10 +41,11 @@ The OS-X versions of pytorch, torchtext, ... might be slightly different than on
 
 # **Jupyter Notebook setup Windows**
 
-1. Open anaconda prompt and activate latest math514 environment
-2. If jupyter is not in current env then install: conda install jupyter
-3. python -m ipykernel install --user --name math514_env7 --display-name "env7"
-4. jupyter notebook
+1. Windows: Open anaconda prompt and activate latest math514 environment
+   OS-X: Open OS-X terminal and activate latest math514 environment
+3. If jupyter is not in current env then install: conda install jupyter
+4. python -m ipykernel install --user --name math514_env7 --display-name "env7"
+5. jupyter notebook
 
 Now when notebook opens in the browser you should see 'env7' in the 'new' dropdown
 
@@ -52,9 +53,10 @@ Now when notebook opens in the browser you should see 'env7' in the 'new' dropdo
 
 [extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
-1. From anaconda prompt, activate latest math514 env
-2. conda install -c conda-forge jupyter_contrib_nbextensions
-3. jupyter contrib nbextension install --user
+1. Windows: From anaconda prompt, activate latest math514 env
+   OS-X: Open OS-X terminal and activate latest math514 environment
+3. conda install -c conda-forge jupyter_contrib_nbextensions
+4. jupyter contrib nbextension install --user
 
 Now, when you run 'jupyter notebook' you will see a 'Nbextensions' tab. 
 Go to the 'Nbextensions' tab and activate the following extensions (and any others you want to use):
@@ -64,6 +66,7 @@ Go to the 'Nbextensions' tab and activate the following extensions (and any othe
 - Exercise
 
 Tutorial notebooks have the 'solution' cells hidden initially.
+**NOTE:** you may need to uncheck the box: disable configuration for nbextensions without explicit compatibilit ...
 
 
 

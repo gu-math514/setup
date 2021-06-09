@@ -68,7 +68,8 @@ Go to the 'Nbextensions' tab and activate the following extensions (and any othe
 - Exercise
 
 Tutorial notebooks have the 'solution' cells hidden initially.
-**NOTE:** you may need to uncheck the box: disable configuration for nbextensions without explicit compatibilit ...
+
+**NOTE:** if extension checkboxes are disabled then uncheck the box: disable configuration for nbextensions without explicit compatibilit ...
 
 
 
